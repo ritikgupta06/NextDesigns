@@ -1,0 +1,13 @@
+/* Apply font styles globally */
+:root {
+  --font-geist-sans: "Geist Sans", sans-serif;
+  --font-geist-mono: "Geist Mono", monospace;
+}
+
+.geist-sans-title {
+  font-family: var(--font-geist-sans);
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+/* You can add more custom styles if needed */

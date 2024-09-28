@@ -1,0 +1,23 @@
+.verify-container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .verify-container h1 {
+    text-align: center;
+  }
+  
+  .verify-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .verify-container button {
+    width: 100%;
+    padding: 10px;
+  }
+  
